@@ -3,6 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# confidential docs
+Litepoint's IQgig5G tester docs
+
 # C extensions
 *.so
 
