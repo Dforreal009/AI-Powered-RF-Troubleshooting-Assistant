@@ -5,6 +5,7 @@ __pycache__/
 
 # confidential docs
 Litepoint's IQgig5G tester docs
+/resources
 
 # C extensions
 *.so
